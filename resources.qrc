@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/Main.qml</file>
+        <file>QML/Settings.qml</file>
+        <!-- IBM Plex Sans JP（同梱フォント。weights: Thin / ExtraLight / Light / Regular / Medium / SemiBold / Bold） -->
+        <file>fonts/IBMPlexSansJP-Thin.ttf</file>
+        <file>fonts/IBMPlexSansJP-ExtraLight.ttf</file>
+        <file>fonts/IBMPlexSansJP-Light.ttf</file>
+        <file>fonts/IBMPlexSansJP-Regular.ttf</file>
+        <file>fonts/IBMPlexSansJP-Medium.ttf</file>
+        <file>fonts/IBMPlexSansJP-SemiBold.ttf</file>
+        <file>fonts/IBMPlexSansJP-Bold.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+# ビルド成果物（headunit_prototype）
+/build/
+/build-*/
+*.user
+*.autosave
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
